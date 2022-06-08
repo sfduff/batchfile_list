@@ -1,8 +1,8 @@
 # batchfile_list
-simple example to show processing of a list of items from a file
+Simple example to show the processing of a list of items from a file using a loop and soem variables
 
-execute by passing the list.txt file as the first parameter to list.bat
+Execute by passing the list.txt file as the first parameter to list.bat
 
-'''
+```
 list list.bat
-'''
+```
