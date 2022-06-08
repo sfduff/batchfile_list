@@ -4,5 +4,11 @@ Simple example to show the processing of a list of items from a file using a loo
 Execute by passing the list.txt file as the first parameter to list.bat
 
 ```
-list list.bat
+list list.txt
+```
+
+Also included a Powershell equivalent **list.ps1** that can be executed in the same way from powershell
+
+```
+powershell.exe -noprofile -executionpolicy bypass -file .\test.ps1 list.txt 
 ```
