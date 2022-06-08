@@ -10,5 +10,5 @@ list list.txt
 Also included a Powershell equivalent **list.ps1** that can be executed in the same way from powershell
 
 ```
-powershell.exe -noprofile -executionpolicy bypass -file .\test.ps1 list.txt 
+powershell.exe -noprofile -executionpolicy bypass -file .\list.ps1 list.txt 
 ```
